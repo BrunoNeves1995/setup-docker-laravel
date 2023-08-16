@@ -74,6 +74,11 @@ Gerar a key do projeto Laravel
 php artisan key:generate
 ```
 
+Remover o git
+```sh
+rm -rf .git/
+```
+
 
 Acessar o projeto
 [http://localhost:8989](http://localhost:8989)
